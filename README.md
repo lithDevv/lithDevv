@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @lithDevv
-- 👀 I’m interested in programming.
+~ Software Developer
+~ Security Researcher
+~ Aspiring IOS app Developer

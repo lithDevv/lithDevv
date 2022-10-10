@@ -1,3 +1,7 @@
-~ Software Developer
-~ Security Researcher
-~ Aspiring IOS app Developer
+```
+- Software Developer
+- Aspiring IOS App Developer
+- Security Researcher
+- Full Stack Web Dev
+- Cryptography
+```
